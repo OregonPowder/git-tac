@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_hvhOgcfIEe2ojf2iU8iyXQ" label="labs" description="" language="java" technicalLabel="LABS" creationDate="2023-03-21T09:00:56.699+0000" author="_hvhOgsfIEe2ojf2iU8iyXQ" productVersion="Talend Data Fabric-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/OregonPowder/git-tac.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_hvhOgcfIEe2ojf2iU8iyXQ" label="labs" description="" language="java" technicalLabel="LABS" author="_hvhOgsfIEe2ojf2iU8iyXQ" productVersion="Talend Real-time Big Data Platform-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/OregonPowder/git-tac.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_ifxmwMfIEe2ojf2iU8iyXQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
-  <TalendProperties:User xmi:id="_hvhOgsfIEe2ojf2iU8iyXQ" login="admin@company.com" firstName="Admin" lastName="Admin" type="MDM" additionnalData="{}"/>
-  <TalendProperties:User xmi:id="_q-bOEMfIEe2ojf2iU8iyXQ" login="gituser@company.com" firstName="Git" lastName="User" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_hvhOgsfIEe2ojf2iU8iyXQ" login="admin@company.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_q-bOEMfIEe2ojf2iU8iyXQ" login="gituser@company.com" firstName="git" lastName="user" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
